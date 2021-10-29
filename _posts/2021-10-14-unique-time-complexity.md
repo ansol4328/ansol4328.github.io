@@ -29,12 +29,12 @@ union by size가 $O(n\log{n})$ 임은 각 원소가 최대 합쳐지는 횟수�
 
 # $\displaystyle T(n)=\sum_{k=1}^{|P|} {n \over p_k} (p_k는\ n이하\ 소수)$   
 
-위와 같은 시간 복잡도는 정수론 문제 등을 다룰 때 자주 등장하는 식이다. 이 역시 소수의 개수가 얼마인지 추측이 힘들기 때문에 정확한 값의 계산이 어려울 것이다. 하지만 위의 경우 시간 복잡도는 **$T(n)=O(n\log{n})$** 이고, 이에 대한 증명을 아래에 적겠다.
+위와 같은 시간 복잡도는 정수론 문제 등을 다룰 때 자주 등장하는 식이다. 이 역시 소수의 개수가 얼마인지 추측이 힘들기 때문에 정확한 값의 계산이 어려울 것이다. 하지만 위의 경우 시간 복잡도는 **$T(n)=O(n\log{|P|})$** 이고, 이에 대한 증명을 아래에 적겠다.
 > Proof )   
-> $\displaystyle T(n)=\sum_{k=1}^{|P|} {n \over p_k} \leq \displaystyle \sum_{k=1}^n {n \over k}=\displaystyle n\sum_{k=1}^n {1 \over k}$   
-> $\displaystyle n\sum_{k=1}^n {1 \over k} \leq n \left(1+\int_{1}^{n} {1 \over x}\, dx \right)=n\left(1+\ln{n}\right)=O(n\log{n})$   
+> $\displaystyle T(n)=\sum_{k=1}^{|P|} {n \over p_k} \leq \displaystyle \sum_{k=1}^{|P|} {n \over k}=\displaystyle n\sum_{k=1}^{|P|} {1 \over k}$   
+> $\displaystyle n\sum_{k=1}^{|P|} {1 \over k} \leq n \left(1+\int_{1}^{|P|} {1 \over x}\, dx \right)=n\left(1+\ln{|P|}\right)=O(n\log{|P|})$   
 
-위의 증명에서 적분식으로 넘어가는 과정은 그래프를 그려보면 쉽게 이해가 될 것이다. 특히나 중간에 나오는 $\displaystyle T(n)=\sum_{k=1}^n {n \over k}$ 이 식은 최근 코드포스에도 출제가 된 바가 있다. Naive한 시도라서 마치 $O(n^2)$에 육박하는 시간 복잡도가 나올 것 같지만 **생각보다 시간이 걸리지 않는다는 점이 해당 시간 복잡도의 핵심**이다. 마찬가지로 해당 사실을 이용하는 문제들을 추천하겠다.   
+위의 증명에서 적분식으로 넘어가는 과정은 그래프를 그려보면 쉽게 이해가 될 것이다. 특히나 중간에 나오는 시그마 식과 유사한 형태가 최근 코드포스에도 출제가 된 바가 있다. Naive한 시도라서 마치 큰 시간 복잡도가 나올 것 같지만 **생각보다 시간이 걸리지 않는다는 점이 해당 시간 복잡도의 핵심**이다. 마찬가지로 해당 사실을 이용하는 문제들을 추천하겠다.   
    
 [Make Them Equal (#747 div2.C)](http://codeforces.com/contest/1594/problem/C)   
 [BOJ 6291 Brunhilda's Birthday](https://www.acmicpc.net/problem/6291)   
