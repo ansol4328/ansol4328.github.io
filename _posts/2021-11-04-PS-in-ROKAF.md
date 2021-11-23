@@ -13,7 +13,7 @@ tags:
 # P3
 [17522 Canal](https://ansol4328.github.io/boj/2021/11/05/BOJ-17522/)   
 [18226 안 읽은 사람은 누구?](https://ansol4328.github.io/boj/2021/11/23/BOJ-18226/)   
-20178 Switches (미작성)   
+[20178 Switches](https://ansol4328.github.io/boj/2021/11/23/BOJ-20178/)   
 20671 요새 파괴 (미작성)   
 10327 피보나치 문제해결전략 (미작성)   
 
