@@ -15,7 +15,7 @@ tags:
 [18226 안 읽은 사람은 누구?](https://ansol4328.github.io/boj/2021/11/23/BOJ-18226/)   
 [20178 Switches](https://ansol4328.github.io/boj/2021/11/23/BOJ-20178/)   
 [20671 요새 파괴](https://ansol4328.github.io/boj/2021/11/24/BOJ-20671/)   
-10327 피보나치 문제해결전략 (미작성)   
+[10327 피보나치 문제해결전략](https://ansol4328.github.io/boj/2021/12/14/BOJ-10327/)   
 
 
 # P2
