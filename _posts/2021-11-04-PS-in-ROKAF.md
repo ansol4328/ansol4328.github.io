@@ -20,7 +20,7 @@ tags:
 
 # P2
 [20039 Coronavirus Trend](https://ansol4328.github.io/boj/2021/12/14/BOJ-20039/)   
-7574 개구리 (미작성)   
+[7574 개구리](https://ansol4328.github.io/boj/2021/12/14/BOJ-7574/)   
 10669 Cow Rectangles (미작성)   
 17353 하늘에서 떨어지는 1, 2, ..., R-L+1개의 별 (미작성)   
 22355 말뚝 (미작성)   
