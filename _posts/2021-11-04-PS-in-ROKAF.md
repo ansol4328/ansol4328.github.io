@@ -23,7 +23,7 @@ tags:
 [7574 개구리](https://ansol4328.github.io/boj/2021/12/14/BOJ-7574/)   
 [10669 Cow Rectangles](https://ansol4328.github.io/boj/2021/12/20/BOJ-10669/)   
 [17353 하늘에서 떨어지는 1, 2, ..., R-L+1개의 별](https://ansol4328.github.io/boj/2021/12/20/BOJ-17353/)   
-22355 말뚝 (미작성)   
+[22355 말뚝](https://ansol4328.github.io/boj/2021/12/21/BOJ-22355/)   
 
 # P1
 18246 색종이와 쿼리 (미작성)   
