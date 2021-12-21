@@ -26,7 +26,7 @@ tags:
 [22355 말뚝](https://ansol4328.github.io/boj/2021/12/20/BOJ-22355/)   
 
 # P1
-18246 색종이와 쿼리 (미작성)   
+[18246 색종이와 쿼리](https://ansol4328.github.io/boj/2021/12/21/BOJ-18246/)   
 13203 읽어내기 (미작성)   
 5471 Pyramid Base (미작성)   
 20036 Ball Alignment (미작성)   
