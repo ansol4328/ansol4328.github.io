@@ -28,7 +28,7 @@ tags:
 # P1
 [18246 색종이와 쿼리](https://ansol4328.github.io/boj/2021/12/21/BOJ-18246/)   
 [13203 읽어내기](https://ansol4328.github.io/boj/2021/12/22/BOJ-13203/)   
-5471 Pyramid Base (미작성)   
+[5471 Pyramid Base](https://ansol4328.github.io/boj/2021/12/22/BOJ-5471/)   
 20036 Ball Alignment (미작성)   
 11069 Particle (미작성)   
 20176 Needle (미작성)   
@@ -82,7 +82,7 @@ tags:
 14951 Broadcast Stations (미작성)   
 
 # D3
-11552 Pyramid Base 2 (미작성)   
+[11552 Pyramid Base 2](https://ansol4328.github.io/boj/2021/12/22/BOJ-5471/)   
 8987 수족관 3 (미작성)   
 16216 우산 (미작성)   
 10076 휴가 (미작성)   
