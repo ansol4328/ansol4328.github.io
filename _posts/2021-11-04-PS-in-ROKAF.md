@@ -70,7 +70,7 @@ tags:
 10637 Minimum Spanning Tree (미작성)   
 17624 검은 돌 (미작성)   
 2584 트리분할 (미작성)   
-5474 Sails (미작성)   
+[5474 Sails](https://ansol4328.github.io/boj/2022/01/17/BOJ-5474/)   
 14870 조개 줍기 (미작성)   
 14636 Money for Nothing (미작성)   
 20180 Two Buildings (미작성)   
