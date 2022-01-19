@@ -76,7 +76,7 @@ tags:
 20180 Two Buildings (미작성)   
 13058 Jewel Thief (미작성)   
 15977 조화로운 행렬 (미작성)   
-16901 XOR MST (미작성)   
+[16901 XOR MST](https://ansol4328.github.io/boj/2022/01/19/BOJ-16901/)   
 10806 공중도시 (미작성)   
 8217 유성 (미작성)   
 14951 Broadcast Stations (미작성)   
