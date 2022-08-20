@@ -234,5 +234,5 @@ for(int i=2 ; i<=m ; i++){
 # 그 이외 사실들
 $n$ 이하의 대략적인 소수의 개수 = $O\left({ n \over \log{n} } \right)$   
 대략적인 $n$ 번째 소수 = $O(n\log{n})$  
-$n$의 약수의 개수$\leq 2^{\log{n}/\log{\log{n} } }$   
+$n$ 의 약수의 개수 $\leq 2^{\log{n}/\log{\log{n} } }$   
 $[1,n]$ 최대 약수 개수 = $O(n^{1/3})$
