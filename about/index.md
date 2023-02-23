@@ -18,10 +18,10 @@ type: about
 * 성균관대학교 알고리즘 동아리 NPC 부회장 (2023.03 ~ 현재)
 
 # Award
-* 2019 경인지역 6개대학 연합 프로그래밍 경시대회 shake! 준우승
+* 2019 경인지역 6개대학 연합 프로그래밍 경시대회 shake! 준우승 (최우수상 : 아주대학교 총장상)
 * 2022 현대모비스 알고리즘 경진대회 장려상
 * 2022 SKKU 프로그래밍 대회 in 소프트의 밤 준우승
-* 2022 ICPC Seoul Regional 장려상 (팀명 : Undergoose)
+* 2022 ICPC Seoul Regional 장려상 (팀명 : Undergoose / 한국지능정보사회진흥원장상)
 * 2022 NC Fellowship Game AI track 우승 (팀명 : ChurAI)
 
 # PS
@@ -36,7 +36,7 @@ type: about
 * 2022 UCPC 본선 19등 (팀명 : Undergoose)
 * 2022 SCPC 본선 진출
 * 2022 SKKU 프로그래밍 대회 in 소프트의 밤 준우승
-* 2022 ICPC Seoul Regional 장려상 11등 (팀명 : Undergoose)
+* 2022 ICPC Seoul Regional 11등 (팀명 : Undergoose)
 
 ## ~ 2017
 * 2010 KOI 전국대회 초등부 동상
