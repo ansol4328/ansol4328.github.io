@@ -37,6 +37,7 @@ type: about
 * 2022 SCPC 본선 진출
 * 2022 SKKU 프로그래밍 대회 in 소프트의 밤 준우승
 * 2022 ICPC Seoul Regional 11등 (팀명 : Undergoose)
+* 2023 성균관대학교 프로그래밍 경진대회 출제 및 검수
 
 ## ~ 2017
 * 2010 KOI 전국대회 초등부 동상
